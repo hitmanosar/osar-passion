@@ -1,6 +1,7 @@
 
 import './App.css';
 import Home from './component/home';
+import ScrollButton from './component/button';
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
     <div className="App">
       <Home/>
       
-     
+     <ScrollButton/>
     </div>
   );
 }
