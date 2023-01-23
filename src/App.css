@@ -249,6 +249,11 @@ ul li a{
     text-align: center;
   }
 
+
+  ul li{
+    justify-content: space-around;
+  }
+
   .log{
     width: 25%;
   }
@@ -260,6 +265,10 @@ ul li a{
   ul li a{
     font-size: 15px;
     text-align: center;
+  }
+
+  ul li{
+    justify-content: space-around;
   }
 
   .logos{
