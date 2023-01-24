@@ -23,10 +23,10 @@ function Client() {
 
         
 
-        <div className="row d-flex align-items-center justify-content-evenly text-center   mt-5">
+        <div className="row d-flex align-items-center justify-content-evenly text-center ">
 
       
-          <div className="col-12 col-lg-2 col-md-6 col-sm-12 ">
+          <div className="col-12 col-lg-2 col-md-6 col-sm-12 mt-5">
             <div class="cards">
               <img src={client} className="cards-img" alt="" />
               <div class="cards-info">
@@ -39,7 +39,7 @@ function Client() {
             </div>
           </div>
          
-          <div className="col-12 col-lg-2 col-md-6 col-sm-12 ">
+          <div className="col-12 col-lg-2 col-md-6 col-sm-12 mt-5">
             <div class="cards">
               <img src={client} className="cards-img" alt="" />
               <div class="cards-info">
@@ -53,7 +53,7 @@ function Client() {
           </div>
 
 
-          <div className="col-12 col-lg-2 col-md-6 col-sm-12">
+          <div className="col-12 col-lg-2 col-md-6 col-sm-12 mt-5">
             <div class="cards">
               <img src={client} className="cards-img" alt="" />
               <div class="cards-info">
