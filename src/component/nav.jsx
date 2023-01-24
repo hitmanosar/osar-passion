@@ -16,7 +16,7 @@ function Nav() {
        <div className="w-80 p-2 nav" >
          
          <div className="row  d-flex flex-column flex-lg-row flex-md-column align-items-center text-center">
-            <div className="col mt-3">
+            <div className="col mt-2">
                 <img src={l1} width={25+'%'} className='log' alt="" />
             </div>
 

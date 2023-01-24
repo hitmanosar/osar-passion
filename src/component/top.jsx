@@ -2,7 +2,7 @@ import React from "react";
 import l2 from "../photo/l2.png";
 import { render } from 'react-dom';
 import Typed from 'react-typed';
-
+import Client from "./client";
 
 // hr {
 
@@ -79,6 +79,8 @@ function Top() {
         </div>
         <hr className="new5" style={{ color: "black" }} />
       </div>
+
+         <Client/>
     </React.Fragment>
   );
 }

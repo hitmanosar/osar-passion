@@ -31,7 +31,7 @@ function Normal() {
       let ls1 = document.querySelectorAll('.ls1');
      for(let i=0; i<ls1.length; i++){
       ls1[i].style['transform'] = 'scale(1.1,1.1) rotate(360deg)';
-      ls1[i].style['filter'] = 'drop-shadow(0px 0px 22px white)';
+      ls1[i].style['filter'] = 'drop-shadow(0px 0px 0px white)';
       ls1[i].style['opacity'] = '1';
      }
      }

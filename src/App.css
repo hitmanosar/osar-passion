@@ -91,20 +91,25 @@ ul li a{
 }
 
 .mains{
-  border: 3px solid black;
+  border: 2px solid black;
 }
 
 .new5{
     margin-top: 10px;
     /* color: black; */
-    border: 2px solid black;
+    border: 1px solid black;
     border-radius: 5px;
     opacity: 1;
 }
 
 .ap{
-  border-left:3px solid black;
+  border-left:2px solid black;
   
+}
+
+.cl{
+  background-color: #e8e8e8;
+  height: auto;
 }
 
 .custom-btn {
