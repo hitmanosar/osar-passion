@@ -74,7 +74,7 @@ function Normal() {
            <div className="row cbox mt-2 d-flex flex-cloumn flex-lg-row flex-md-column flex-sm-column  justify-content-evenly align-items-center">
           
          
-          <div className="col-12 col-lg-2 col-md-6 mt-5 c1 text-center p-0">
+          <div className="col-12 col-lg-3 col-md-6 mt-5 c1 text-center p-0">
               
               <div className="c1s p-3">
               <div className="mt-2"></div>
@@ -101,7 +101,7 @@ function Normal() {
         
 
           
-          <div className="col-12 col-lg-2 col-md-6  mt-5 c2 text-center  p-0">
+          <div className="col-12 col-lg-3 col-md-6  mt-5 c2 text-center  p-0">
           <div className="c1s p-3">
           <div className="mt-2"></div>
          
@@ -123,7 +123,7 @@ function Normal() {
          
 
          
-          <div className="col-12 col-lg-2 col-md-6 mt-5 c3 text-center p-0">
+          <div className="col-12 col-lg-3 col-md-6 mt-5 c3 text-center p-0">
           <div className="c1s p-3">
             <div className="mt-2"></div>
            
